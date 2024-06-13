@@ -16,7 +16,6 @@ return(
         </div>
        
         
-
         <p >{texts[valueActive]}</p>
         
     </>
