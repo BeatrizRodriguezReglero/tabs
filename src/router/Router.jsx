@@ -6,7 +6,7 @@ const Router =()=>{
         <>
             <Routes>
 
-                <Route/>
+                <Route path="/" />
             </Routes>
         </>
     )
